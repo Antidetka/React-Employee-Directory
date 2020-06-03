@@ -1,5 +1,5 @@
 import React from "react"
-import "./style.css";
+
 
 function SearchBox(props) {
 
@@ -15,7 +15,7 @@ function SearchBox(props) {
 
 
 
-                        <h3 className="right-align headerText">Associate Directory</h3>
+                        <h3 className="right-align headerText">Employee Directory</h3>
                         {/* <h6 className="center-align smallerHeaderText">Use the box down below to narrow your search</h6> */}
 
                     </div>
