@@ -2,6 +2,8 @@
 
 An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
 
+![](public/employee-directory.png)
+
 ## Acceptance Criteria
 
 Given a table of random users, when the user loads the page, a table of employees should render. 
