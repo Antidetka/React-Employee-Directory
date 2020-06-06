@@ -37,7 +37,7 @@ cd React-Employee-Directoty
 ```
 **Step 3 - Install all required NPM packages.**
 ```
-npm install 
+npx create-react-app <appname>, npm install express, react-moment, axios
 ```
 **Step 4 - Start the application server using the command line below**
 ```
